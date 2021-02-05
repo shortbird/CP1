@@ -1,173 +1,111 @@
-# Advanced Computer Programming
-Projects that align with the Utah standards for Advanced Computer Programming
+# Programming 1
+Projects that align with the Utah standards for Programming 1
 
 ## Table of Contents:
 
-* [Strand 1 - Complex Applications](#Strand-1)
-* [Strand 2 - Search & Sort Algorithms](#Strand-2)
-* [Strand 3 - Multidimensional Arrays](#Strand-3)
-* [Strand 4 - Abstract Data Types](#Strand-4)
-* [Strand 5 - Advanced Object-Oriented Programming](#Strand-5)
-* [Strand 6 - Unified Modeling Language](#Strand-6)
-* [Strand 7 - Portfolio Project](#Strand-7)
-
+* [Strand 1 - Using IDEs](#Strand-1)
+* [Strand 2 - Program Development Methodology](#Strand-2)
+* [Strand 3 - Using Commands and Operations](#Strand-3)
+* [Strand 4 - Control Structures and Loops](#Strand-4)
+* [Strand 5 - Career Opportunities](#Strand-5)
 
 ## Strand 1
-Students will develop applications which made advanced use of the skills and concepts developed in Computer Programming 1 and 2.
+Students will be familiar with and use a programming language IDE (Integrated Development Environment)
 
 ### Standard 1
-Demonstrate the ability to develop complex applications
-* Develop complex applications using input, calculations, and output
-  * [Pig Latin](./projects/strand_one/pig_latin.md)
-  * [Dice Rolling Simulator](./projects/strand_one/dice_roller.md)
-  * [Hang Man Game](./projects/strand_one/hang_man.md)
-* Develop complex applications using control structures (loops, if/else, etc.)
-  * [Reaction Time Bot](./projects/strand_one/human_benchmark_reaction.md)
-  * [Aim Trainer Bot](./projects/strand_one/human_benchmark_aim.md)
-* Develop complex applications using object-oriented programming
-  * [Object-Oriented Programming](./projects/strand_one/basic_oop.md.md)
-* Develop complex applications using data structures
-  * [Linked List](./projects/strand_one/linked_list.md)
-* Develop complex applications using files (sequential files)
-  * [State Capitals Quiz](./projects/strand_one/state_capitals.md)
+Demonstrate concept knowledge of different languages.
+* Describe the difference between interpreted and compiled languages
+* Identify characteristics of high-level and low-level languages
 
 ### Standard 2
-Utilize recursive algorithms
-* Analyze and solve recursive functions
-* Utilize recursive algorithms to solve a problem
-* Identify the base case, recursive case, and action of recursive functions
-* [Fibonacci Calculator](./projects/strand_one/fibonacci.md)
+Demonstrate the ability to use an IDE.
+* Use an IDE to develop, compile, and run programs
+* Understand the difference between syntax, run-time, and logic errors
+* Use the debugger to identify errors
 
-### Standard 3
-Create advanced functions
-* Create and use overloaded constructors and functions
-  * [Tutorial](https://www.kite.com/python/answers/how-to-overload-a-constructor-in-python)
+### Projects
+* [Hello World](./projects/strand_one/hello_world.md)
 
 ## Strand 2
-Students will use searching and sorting algorithms
+Students will understand program development methodology
 
 ### Standard 1
-Demonstrate the ability to search data structures in programs
-* Develop a binary search
-  * [Morse Decoder](./projects/strand_two/morse_decoder.md)
-* Compare the efficiency and appropriateness of sequential and binary searches
-  * [Sorting Program](./projects/strand_two/sorting_algorithms.md)
+Demonstrate the ability to use good programming style
+* Demonstrate proper use of white space (between lines and indentation)
+* Use appropriate naming conventions for identifiers (variables, methods, functions, and file names)
+* Construct identifiers with meaningful format; camelCase and under_score
 
 ### Standard 2
-Demonstrate the ability to sort data structures in programs
-* Sort arrays using iterative sorting algorithms
-  * [Selection sort](./projects/strand_two/selection_sort.md)
-  * [Insertion sort](./projects/strand_two/insertion_sort.md)
-  * [Bubble sort](./projects/strand_two/bubble_sort.md)
-* Recognize recursive sorting algorithms
-  * [Merge sort](./projects/strand_two/merge_sort.md)
-  * [Quick sort](./projects/strand_two/quick_sort.md)
-  * [Heap sort](./projects/strand_two/heap_sort.md)
-* Compare the efficiency of sorting algorithms
-  * [Sorting Program](./projects/strand_two/sorting_algorithms.md)
-
-## Strand 3
-Students will utilize multidimensional arrays
-
-### Standard 1
-Utilize multidimensional arrays
-* Initialize multidimensional arrays
-* Input and output data into and from multidimensional arrays
-* Perform operations on multidimensional arrays
-* Perform searches on multidimensional arrays
-
-### Projects
-* [Tic Tac Toe](./projects/strand_three/tic_tac_toe.md)
-* [Connect Four](./projects/strand_three/connect_four.md)
-* [Battleship Game](./projects/strand_three/battleship.md)
-
-## Strand 4
-Students will properly employ dynamic data structures / abstract data types (ADTs)
-
-### Standard 1
-Demonstrate the ability to use stacks in programs
-* Declare stack structures
-* Initialize stacks
-* Check for empty and full stacks
-* Push on to and pop off values from stacks
-* Develop an application that uses stacks
-
-### Projects
-* TODO: [Postfix to Infix](./projects/strand_four/postfix_infix.md)
-  * https://alpine.instructure.com/courses/56757/assignments/662571?module_item_id=1394624
-  * Uses built-in Python data structures (list)
-
-### Standard 2
-Demonstrate the ability to use queues in programs
-* Declare queue structures
-* Check for empty and full queues
-* Initialize queues
-* Enqueue values on to and dequeue values off queues
-* Develop an application that utilizes queues
-
-### Projects
-* TODO: [Queues](./projects/strand_four/queues.md)
-  * https://alpine.instructure.com/courses/56757/assignments/662575?module_item_id=1394626
-  * Uses built-in Python data structures (list)
-
-
-## Strand 5
-Students will design and implement advanced object-oriented concepts
-
-### Standard 1
-Implement object-oriented programs
-* Create classes with minimal extraneous relationships (high cohesion and low coupling)
-* Demonstrate and use composition and aggregation (HAS-A) relationships
-* Demonstrate the use of class variables (static variables)
-
-### Standard 2
-Implement inheritance in an object-oriented program
-* Utilize class hierarchies (parent-child relationships)
-* Demonstrate IS-A relationships
-* Override methods and understand how to call the overriding method from the child
-* Demonstrate the protected modifier
-* Call a parent class constructor from the child's constructor
+Understand the software development lifecycle
+* Identify specifications and understand requirements to create a solution to a problem
+* Develop a program using external documentation (flowcharts, abstracts, and pseudocode) to break down the problem into sub-components
+* Design solutions using algorithms
+* Test program for verification of errors and proper functionality
+* Provide internal comments in the IDE that explain functionality through documentation
+* Redo all steps as needed
 
 ### Standard 3
-Create and use abstract classes
-* Create and implement abstract classes
-* Implement interfaces (purely abstract classes)
-* Know difference between abstract & interface classes
+Identify the components of programming language syntax
+* Understand keywords, identifiers, operators, and operands
+* Understand statements and expressions in a program
+* Understand program components such as functions, methods, or procedures
 
-### Standard 4
-Implement polymorphism
-* Demonstrate that a parent object variable can hold an instance of a child class
-* Determine IS-A relationships via code
-* Demonstrate typecasting via method calls of inherited objects
-
-### Projects
-* [Object-Oriented Programming](./projects/strand_one/basic_oop.md)
-* [Advanced Object-Oriented Programming](./projects/strand_five/adv_oop.md)
-* Postfix to Infix, but students create their own Stack class
-* Queues, but students create their own queue class
-
-## Strand 6
-Students will use Unified Modeling Language (UML) to design object-oriented programs
+## Strand 3
+Students will demonstrate effective use of commands and operations
 
 ### Standard 1
-Demonstrate the use of UML in design
-* Create an activity diagram
-* Create a class diagram for the class hierarchy of a program
-* Create a sequence diagram for a function
-* Translate diagrams to code
-
-### Projects
-* Create UML diagrams of past projects
-
-## Strand 7
-Students will develop a program of significant complexity as part of a portfolio
-
-### Standard 1
-Create an individual program of significant complexity (300-500 lines)
-* Create design documentation for the project
-* Follow accepted object-oriented programming methodology when writing the code
+Employ basic use of elements and data types of a programming language
+* Declare, initialize, and assign values to constants and variables
+* Demonstrate the ability to use input and output commands
+* Declare and use variable types (primitives, reference, or object)
+* Identify proper data types for a specified application (boolean, int, float, point, str)
 
 ### Standard 2
-Compile a portfolio of the individual and group programs developed
-* Include sample design work
-* Include sample program source code
+Employ basic arithmetic expressions
+* Use basic arithmetic operators (modulus, multiplication, division, addition, subtraction)
+* Understand order of operation of expressions
+* Write expressions that mix float and int expressions
+
+### Projects
+* [Sum Three Numbers](./projects/strand_three/sum_three.md)
+
+## Strand 4
+Students will properly employ control and loop structures
+
+### Standard 1
+Demonstrate the ability to use relational and logical operators in programs
+* Compare values using relational operators (<, >, ==, <=, >=, etc.)
+* Form complex expressions using logical operators
+
+### Standard 2
+Demonstrate the ability to use decisions in programs
+* Employ simple if structures
+* Use if-else and nested if-else structures
+
+### Standard 3
+Demonstrate the ability to use loops in programs
+* Demonstrate knowledge between for loops, while loops, and do while loops
+* Describe the various ways that loops can end (i.e. sentinel, break, condition fail, etc.)
+* Design loops so they iterate the correct number of times (i.e. off-by-one errors, infinite loops, etc.)
+* Utilize nested loops
+
+## Strand 5
+Students will be aware of career opportunities in the Computer Programming/Software Engineering industry and ethica applications
+
+### Standard 1
+Investigate career opportunities, trends, and requirements related to computer programming/software engineering careers
+* Identify the members of a computer programming/software engineering team:
+  * Team leader
+  * Analyst
+  * Senior developer
+  * Junior developer
+  * Client/subject matter expert
+* Describe work performed by each member of the computer programming/software engineering team
+* Investigate trends and traits associated with computer programming/software engineering careers
+* Discuss related career pathways
+
+### Standard 2
+Have an understanding of current ethical issues dealing with computer programming and information in society
+* Explain the impact software can have on society (i.e. privacy, piracy, copyright laws, etc.)
+* Explain the ethical reasons for creating reliable and robust software
+* Describe how computer-controlled automation affects a workplace and society
