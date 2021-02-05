@@ -1,5 +1,9 @@
-# Strand 3 Projects
-Projects that align with the Utah standards for Programming 1 - Strand 3
+# Strand 3 Curriculum Resources
+Curriculum resources that align with the Utah standards for Programming 1 - Strand 3
+
+## Tutorials
+
+## Resources
 
 ## Projects
 * [Sum Three Numbers](./projects/sum_three.md)

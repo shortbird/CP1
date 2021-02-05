@@ -23,8 +23,8 @@ Demonstrate the ability to use an IDE.
 * Understand the difference between syntax, run-time, and logic errors
 * Use the debugger to identify errors
 
-### Projects
-[Click Here](./projects/strand_one/projects_s1.md) for all Strand 1 projects.
+### Curriculum
+[Click Here](./projects/strand_one/projects_s1.md) for Strand 1 curriculum resources.
 
 ## Strand 2
 Students will understand program development methodology
@@ -50,8 +50,8 @@ Identify the components of programming language syntax
 * Understand statements and expressions in a program
 * Understand program components such as functions, methods, or procedures
 
-### Projects
-[Click Here](./projects/strand_two/projects_s2.md) for all Strand 2 projects.
+### Curriculum
+[Click Here](./projects/strand_two/projects_s2.md) for Strand 2 curriculum resources.
 
 ## Strand 3
 Students will demonstrate effective use of commands and operations
@@ -69,8 +69,8 @@ Employ basic arithmetic expressions
 * Understand order of operation of expressions
 * Write expressions that mix float and int expressions
 
-### Projects
-[Click Here](./projects/strand_three/projects_s3.md) for all Strand 3 projects.
+### Curriculum
+[Click Here](./projects/strand_three/projects_s3.md) for Strand 3 curriculum resources.
 
 ## Strand 4
 Students will properly employ control and loop structures
@@ -92,6 +92,9 @@ Demonstrate the ability to use loops in programs
 * Design loops so they iterate the correct number of times (i.e. off-by-one errors, infinite loops, etc.)
 * Utilize nested loops
 
+### Curriculum
+[Click Here](./projects/strand_four/projects_s4.md) for Strand 4 curriculum resources.
+
 ## Strand 5
 Students will be aware of career opportunities in the Computer Programming/Software Engineering industry and ethical applications
 
@@ -112,3 +115,6 @@ Have an understanding of current ethical issues dealing with computer programmin
 * Explain the impact software can have on society (i.e. privacy, piracy, copyright laws, etc.)
 * Explain the ethical reasons for creating reliable and robust software
 * Describe how computer-controlled automation affects a workplace and society
+
+### Curriculum
+[Click Here](./projects/strand_five/projects_s5.md) for Strand 5 curriculum resources.
