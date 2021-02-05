@@ -6,12 +6,12 @@ Write a Python program that gets the user's name as input and prints out "Hello"
 ## Example
 **Input**
 ```
-Caveman
+Harry
 ```
 
 **Output**
 ```
-Hello, Caveman
+Hello, Harry
 ```
 
 ## Hints

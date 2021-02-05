@@ -50,6 +50,9 @@ Identify the components of programming language syntax
 * Understand statements and expressions in a program
 * Understand program components such as functions, methods, or procedures
 
+### Projects
+[Click Here](./projects/strand_two/projects_s2.md) for all Strand 2 projects.
+
 ## Strand 3
 Students will demonstrate effective use of commands and operations
 
@@ -67,7 +70,7 @@ Employ basic arithmetic expressions
 * Write expressions that mix float and int expressions
 
 ### Projects
-* [Add Three Numbers](./projects/strand_three/sum_three.md)
+[Click Here](./projects/strand_three/projects_s3.md) for all Strand 3 projects.
 
 ## Strand 4
 Students will properly employ control and loop structures
