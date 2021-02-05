@@ -24,7 +24,7 @@ Demonstrate the ability to use an IDE.
 * Use the debugger to identify errors
 
 ### Projects
-* [Hello World](./projects/strand_one/hello_world.md)
+[Click Here](./projects/strand_one/projects_s1.md)] for all Strand 1 projects.
 
 ## Strand 2
 Students will understand program development methodology
@@ -67,7 +67,7 @@ Employ basic arithmetic expressions
 * Write expressions that mix float and int expressions
 
 ### Projects
-* [Sum Three Numbers](./projects/strand_three/sum_three.md)
+* [Add Three Numbers](./projects/strand_three/sum_three.md)
 
 ## Strand 4
 Students will properly employ control and loop structures
@@ -90,7 +90,7 @@ Demonstrate the ability to use loops in programs
 * Utilize nested loops
 
 ## Strand 5
-Students will be aware of career opportunities in the Computer Programming/Software Engineering industry and ethica applications
+Students will be aware of career opportunities in the Computer Programming/Software Engineering industry and ethical applications
 
 ### Standard 1
 Investigate career opportunities, trends, and requirements related to computer programming/software engineering careers
