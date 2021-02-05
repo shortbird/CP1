@@ -24,7 +24,7 @@ Demonstrate the ability to use an IDE.
 * Use the debugger to identify errors
 
 ### Projects
-[Click Here](./projects/strand_one/projects_s1.md)] for all Strand 1 projects.
+[Click Here](./projects/strand_one/projects_s1.md) for all Strand 1 projects.
 
 ## Strand 2
 Students will understand program development methodology
